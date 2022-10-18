@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nayan458
+- 👋 Hi, I’m @Nayanmoni Baruah
 - 👀 I’m currently into fullstack web development exploring diferent frameworks and library
 - 🌱 I’m currently learning web development as well as c++ as my one of main language.
 - 💞️ I’m looking to collaborate on JS,CSS,HTML,MERN, C++, python, sql as well as mongodb.
